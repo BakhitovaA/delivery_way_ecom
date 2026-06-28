@@ -31,14 +31,18 @@
 [Перейти к описанию](/initial-requirements.md)
 
 ## BPMN схема
-![BPMN схема](/BPMN_delivery.png)
+![BPMN схема](/diagrams/BPMN_delivery.png)
 
 ## Интеграционная схема
 
 ![Интеграционнная схема](/integration_scheme.png)
 
+## Kafka, topics, настройки гарантий доставки и идемпотентность
+
+[Перейти к описанию](/kafka-and-edge-cases.md)
+
 ## Диаграммы
 
-![Sequence diagram](/sequence-diagram.png)
-![Activity diagram](/activity-diagram.png)
+![Sequence diagram](/diagrams/sequence-diagram.png)
+![Activity diagram](/diagrams/activity-diagram.png)
 
